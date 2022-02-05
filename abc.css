@@ -1,0 +1,19 @@
+body{
+    background-color:black;
+    color:pink;
+}
+ span.s{
+     display: block;
+    padding: 5px;
+    float:right;
+}
+
+h1.pink{
+    color:pink;
+    font-size:20px;
+}
+p.white{
+    color: white;
+    font-size:18px;
+    
+}
